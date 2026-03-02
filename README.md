@@ -1,8 +1,5 @@
 # Aisehin-Prologue-3D-Simulation-
 3rd Person Language Game Application
-# 2026 Python 3rd Person Controller System
-UPBGE 0.50 | Fully Scripted | State-Driven Architecture
-Author: Evan Charles McArthur  
 
 ---
 
